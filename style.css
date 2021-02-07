@@ -1,0 +1,98 @@
+/*----------------------------------
+ fonts
+ --------------------------------- */
+*{
+    background-color: #634E49;
+}
+/*------------------------------------
+home
+----------------------------------- */
+.doggo-name{
+    margin: 10px 0 10px;
+    padding: 10px 0 10px;
+    text-align: center;
+    font-size: 30px;
+    color: #00A63E;
+    max-height: 100px;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+.text-center{
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: #00A63E;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+}
+.doggo-img-responsive{
+    width: 20%;
+    height: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.doggo-img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 10px;
+    font-size: 30px;
+    color: #00A63E;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+}
+.doggo-img .doggo-main-credit{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 10px;
+}
+.doggo-info{
+    margin: 5px 0 5px;
+    padding: 5px 0 5px;
+    text-align: center;
+    font-size: 20px;
+    color: #00A63E;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+}
+.doggo-info p{
+    text-align: center;
+}
+.a{
+    width: 20%;
+    height: 20%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.history{
+    margin-left: auto;
+    text-align: left;
+    font-size: 20px;
+    color: #00A63E;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+}
+.ul li{
+    list-style-type: none;
+}
+.event{
+    margin-left: auto;
+    text-align: left;
+    font-size: 20px;
+    color: #00A63E;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+}
+.external-text{
+    margin-left: auto;
+    text-align: left;
+    font-size: 20px;
+    color: #00A63E;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+}
